@@ -1,0 +1,355 @@
+{
+  "data": [
+    {
+      "name": "Wrocław",
+      "image": "http://kochamwroclaw.pl/wp-content/uploads/pergola-700x394.jpg",
+      "population": "637075",
+      "property_type": [
+        "flat",
+        "house"
+        ],
+        "property": [
+          {
+            "type":"flat",
+            "size":55,
+            "size_symbol": "m2",
+            "price": "340000"
+          },
+          {
+            "type":"flat",
+            "size":80,
+            "size_symbol": "m2",
+            "price": "670000"
+          },
+          {
+            "type":"flat",
+            "size":50,
+            "size_symbol": "m2",
+            "price": "290000"
+          },
+          {
+            "type":"flat",
+            "size":38,
+            "size_symbol": "m2",
+            "price": "230000"
+          },
+          {
+            "type":"flat",
+            "size":55,
+            "size_symbol": "m2",
+            "price": "300000"
+          },
+          {
+            "type":"house",
+            "size":240,
+            "size_symbol": "m2",
+            "price": "1200000"
+          },
+          {
+            "type":"house",
+            "size":164,
+            "size_symbol": "m2",
+            "price": "950000"
+          }
+          ]
+    },
+    {
+      "name": "Kraków",
+      "image": "http://culture.pl/sites/default/files/images/imported/inne%20wydarzenia/Krakow/turcja_krakow_forum.jpg",
+      "population": "762448",
+      "property_type": [
+        "flat"
+        ],
+        "property": [
+          {
+            "type":"flat",
+            "size":45,
+            "size_symbol": "m2",
+            "price": "340000"
+          },
+          {
+            "type":"flat",
+            "size":80,
+            "size_symbol": "m2",
+            "price": "680000"
+          },
+          {
+            "type":"flat",
+            "size":50,
+            "size_symbol": "m2",
+            "price": "430000"
+          },
+          {
+            "type":"flat",
+            "size":38,
+            "size_symbol": "m2",
+            "price": "270000"
+          },
+          {
+            "type":"flat",
+            "size":55,
+            "size_symbol": "m2",
+            "price": "300000"
+          },
+          {
+            "type":"flat",
+            "size":120,
+            "size_symbol": "m2",
+            "price": "1350000"
+          },
+          {
+            "type":"flat",
+            "size":48,
+            "size_symbol": "m2",
+            "price": "450000"
+          },
+          {
+            "type":"flat",
+            "size":100,
+            "size_symbol": "m2",
+            "price": "1050000"
+          },
+          {
+            "type":"flat",
+            "size":76,
+            "size_symbol": "m2",
+            "price": "630000"
+          }
+          ]
+    },
+    {
+      "name": "Głogów",
+      "image": "http://www.glogow.pl/1000lat/images/stories/1000lat/tn_IMG_4638_39_40.jpg",
+      "population": "68434",
+      "property_type": [
+        "flat",
+        "plot"
+        ],
+        "property": [
+          {
+            "type":"flat",
+            "size":60,
+            "size_symbol": "m2",
+            "price": "140000"
+          },
+          {
+            "type":"flat",
+            "size":80,
+            "size_symbol": "m2",
+            "price": "230000"
+          },
+          {
+            "type":"flat",
+            "size":50,
+            "size_symbol": "m2",
+            "price": "150000"
+          },
+          {
+            "type":"flat",
+            "size":75,
+            "size_symbol": "m2",
+            "price": "170000"
+          },
+          {
+            "type":"flat",
+            "size":55,
+            "size_symbol": "m2",
+            "price": "150000"
+          },
+          {
+            "type":"plot",
+            "size":8,
+            "size_symbol": "ares",
+            "price": "80000"
+          },
+          {
+            "type":"plot",
+            "size":12,
+            "size_symbol": "ares",
+            "price": "140000"
+          },
+          {
+            "type":"plot",
+            "size":8,
+            "size_symbol": "ares",
+            "price": "1050000"
+          },
+          {
+            "type":"plot",
+            "size":22,
+            "size_symbol": "ares",
+            "price": "210000"
+          },
+          {
+            "type":"plot",
+            "size":10,
+            "size_symbol": "ares",
+            "price": "1300000"
+          },
+          {
+            "type":"plot",
+            "size":12,
+            "size_symbol": "ares",
+            "price": "160000"
+          }
+          ]
+    },
+    {
+      "name": "Szczecin",
+      "image": "https://c2.staticflickr.com/6/5696/22570143502_af95bf951b_b.jpg",
+      "population": "405413",
+      "property_type": [
+        "house"
+        ],
+        "property": [
+          {
+            "type":"house",
+            "size":60,
+            "size_symbol": "m2",
+            "price": "240000"
+          },
+          {
+            "type":"house",
+            "size":80,
+            "size_symbol": "m2",
+            "price": "330000"
+          },
+          {
+            "type":"house",
+            "size":50,
+            "size_symbol": "m2",
+            "price": "250000"
+          },
+          {
+            "type":"house",
+            "size":75,
+            "size_symbol": "m2",
+            "price": "270000"
+          },
+          {
+            "type":"house",
+            "size":55,
+            "size_symbol": "m2",
+            "price": "250000"
+          }
+          ]
+    },
+    {
+      "name": "Ustrzyki Dolne",
+      "image": "http://www.hotelikpodorlikiem.pl/images/foty/polonina.jpg",
+      "population": "9292",
+      "property_type": [
+        "plot"
+        ],
+        "property": [
+          {
+            "type":"plot",
+            "size":14,
+            "size_symbol": "ares",
+            "price": "240000"
+          },
+          {
+            "type":"plot",
+            "size":17,
+            "size_symbol": "ares",
+            "price": "200000"
+          },
+          {
+            "type":"plot",
+            "size":10,
+            "size_symbol": "ares",
+            "price": "170000"
+          },
+          {
+            "type":"plot",
+            "size":14,
+            "size_symbol": "ares",
+            "price": "220000"
+          },
+          {
+            "type":"plot",
+            "size":11,
+            "size_symbol": "ares",
+            "price": "140000"
+          },
+          {
+            "type":"plot",
+            "size":15,
+            "size_symbol": "ares",
+            "price": "210000"
+          },
+          {
+            "type":"plot",
+            "size":8,
+            "size_symbol": "ares",
+            "price": "110000"
+          },
+          {
+            "type":"plot",
+            "size":8,
+            "size_symbol": "ares",
+            "price": "125000"
+          }
+          ]
+    },
+    {
+      "name": "Mikołajki",
+      "image": "http://m.wm.pl/2014/09/orig/a-211022.jpg",
+      "population": "3824",
+      "property_type": [
+        "house",
+        "plot"
+        ],
+        "property": [
+          {
+            "type":"plot",
+            "size":8,
+            "size_symbol": "ares",
+            "price": "240000"
+          },
+          {
+            "type":"plot",
+            "size":8,
+            "size_symbol": "ares",
+            "price": "270000"
+          },
+          {
+            "type":"plot",
+            "size":10,
+            "size_symbol": "ares",
+            "price": "290000"
+          },
+          {
+            "type":"plot",
+            "size":7,
+            "size_symbol": "ares",
+            "price": "210000"
+          },
+          {
+            "type":"plot",
+            "size":11,
+            "size_symbol": "ares",
+            "price": "240000"
+          },
+          {
+            "type":"house",
+            "size":130,
+            "size_symbol": "m2",
+            "price": "570000"
+          },
+          {
+            "type":"house",
+            "size":240,
+            "size_symbol": "m2",
+            "price": "760000"
+          },
+          {
+            "type":"house",
+            "size":220,
+            "size_symbol": "m2",
+            "price": "810000"
+          }
+          ]
+    }
+  ]
+}
